@@ -10,3 +10,14 @@ body{
     background-color: #f4f4f4;
     color: #333;
 }
+.container{
+    border: 2px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    max-width: 1200px;
+    margin: 50px auto;
+    padding: 20px;
+}
